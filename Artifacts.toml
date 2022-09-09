@@ -1,0 +1,9 @@
+[[oneAPI_Support]]
+arch = "x86_64"
+git-tree-sha1 = "2b62a1bfe03661d5c5a8034fb20659c1a33eeb90"
+libc = "glibc"
+os = "linux"
+
+    [[oneAPI_Support.download]]
+    sha256 = "2740f0a327d858bf636aa22c88a8c067cd433dfeb09f308b0405028f9612880a"
+    url = "https://github.com/JuliaBinaryWrappers/oneAPI_Support_jll.jl/releases/download/oneAPI_Support-v2022.1.0+0/oneAPI_Support.v2022.1.0.x86_64-linux-gnu.tar.gz"
