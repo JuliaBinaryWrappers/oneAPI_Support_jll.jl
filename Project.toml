@@ -1,6 +1,6 @@
 name = "oneAPI_Support_jll"
 uuid = "b049733a-a71d-5ed3-8eba-7d323ac00b36"
-version = "2022.1.0+0"
+version = "2022.1.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
