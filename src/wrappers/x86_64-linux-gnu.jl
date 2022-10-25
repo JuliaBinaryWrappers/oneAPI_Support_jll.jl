@@ -8,7 +8,7 @@ function __init__()
     JLLWrappers.@init_library_product(
         liboneapi_support,
         "lib/liboneapi_support.so",
-        nothing,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@generate_init_footer()
