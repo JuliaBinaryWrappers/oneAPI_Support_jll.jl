@@ -1,9 +1,9 @@
 [[oneAPI_Support]]
 arch = "x86_64"
-git-tree-sha1 = "305749e6c396bed3bac62fdcf1d7f5f6d1accf79"
+git-tree-sha1 = "dacc6471ef6945fc42d4c7881bb431b19e138ba3"
 libc = "glibc"
 os = "linux"
 
     [[oneAPI_Support.download]]
-    sha256 = "c7e1876a2f062df930e42123ee24d7a0a13276a5b0af1e409bf993b2940554d3"
-    url = "https://github.com/JuliaBinaryWrappers/oneAPI_Support_jll.jl/releases/download/oneAPI_Support-v0.3.2+0/oneAPI_Support.v0.3.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "5b172dfe2b21298869cde71a29b73369e5a5349ce2a9520472f1cc5ce464b46b"
+    url = "https://github.com/JuliaBinaryWrappers/oneAPI_Support_jll.jl/releases/download/oneAPI_Support-v0.3.3+0/oneAPI_Support.v0.3.3.x86_64-linux-gnu.tar.gz"
